@@ -7,7 +7,16 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+google-auth = "^2.17.0"
+google-auth-oauthlib = "^1.0.0"
+google-auth-httplib2 = "^0.1.0"
+google-api-python-client = "^2.83.0"
+pydantic = "^1.10.7"
+pyyaml = "^6.0"
+click = "^8.1.3"
 
+[tool.poetry.scripts]
+pookon = "pookon.cli:main"
 
 [build-system]
 requires = ["poetry-core"]
