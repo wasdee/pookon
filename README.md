@@ -41,3 +41,5 @@ Me: could you create MVP for me?
 
 ## Alternatives
 - [gc2md](https://github.com/needmorecowbell/gc2md) - take csv and turn it to `.md files 
+ - [obsidian-google-lookup](https://github.com/ntawileh/obsidian-google-lookup) - an obsidian plugin to l
+ - ookup google contacts and events 
