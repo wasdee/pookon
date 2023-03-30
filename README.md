@@ -1,5 +1,5 @@
 # pookon
-pookon (ผู้คน) python cli to sync contacts to obsidian.md 
+pookon (ผู้คน - people in Thai) python cli to sync contacts to obsidian.md 
 
 ## GPT-4 Notes
 """
