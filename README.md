@@ -38,3 +38,6 @@ This outline should give you a good starting point for creating your Python scri
 Me: could you create MVP for me?
 
 """
+
+## Alternatives
+- [gc2md](https://github.com/needmorecowbell/gc2md) - take csv and turn it to `.md files 
